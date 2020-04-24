@@ -6,6 +6,6 @@ console.log('print me')
 }
 
 module.exports = {
-    printMe,
-    printName
+    printMe : printMe,
+    printName : printName
 }
